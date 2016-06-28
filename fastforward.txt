@@ -1,2 +1,2 @@
 Fastforward.txt
-for editing on can_push branch
+for editing on can_push_b branch
